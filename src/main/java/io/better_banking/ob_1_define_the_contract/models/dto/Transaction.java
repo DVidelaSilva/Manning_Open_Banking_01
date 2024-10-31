@@ -1,7 +1,7 @@
 package io.better_banking.ob_1_define_the_contract.models.dto;
 
-
 import java.util.Date;
+
 
 public class Transaction {
 
